@@ -1,6 +1,8 @@
 # Sorting
 
-This folder contains sorting algorithm implementations in C.
+This folder contains Sorting algorithm implementations in C.
 
 ## Files:
-- (Add file names here later)
+- bubble_sort.c
+- selection_sort.c
+- insertion_sort.c
