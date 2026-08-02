@@ -25,6 +25,7 @@ All codes are written in C and organized by topics.
 - **Sorting/** → Sorting algorithms 
 - **Trees/** → Binary Tree and Heap
 - **String/** → String ADT
+- **Graph/** → bfs,dfs
 
 ---
 
