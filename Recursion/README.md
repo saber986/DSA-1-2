@@ -7,3 +7,4 @@ Problems solved using Recursion in C.
 - fibonacci_series_using_recursion.c
 - fibonacci_series_tail_recursion.c
 - sum_using_recursion.c
+- palindrome_number.c
